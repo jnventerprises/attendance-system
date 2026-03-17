@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-deepface
-opencv-python
-numpy
-pillow
+fastapi==0.110.0
+uvicorn==0.27.1
+deepface==0.0.79
+opencv-python-headless==4.8.1.78
+numpy==1.23.5
+pillow==10.2.0
+tensorflow==2.12.0
